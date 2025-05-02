@@ -1,14 +1,17 @@
-# 👋 Hello World! I'm Aswin — Software Engineer & Tech Explorer
+# 👋 Hello World! I'm Aswin  
+### Software Engineer & Tech Explorer  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=call-me-aswin&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=call-me-aswin&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub stats showing commits and activity" />
+  <br/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="120" />
 </div>
 
 ---
 
-## 💻 Tech Stack
-
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+## 💻 Tech Stack  
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="120" width="200"  align="right" />
 
 **Languages & Tools:**  
 <p>
@@ -36,7 +39,8 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me  
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" align="right" />
 
 <p>
   <a href="mailto:aswinsyam9188@gmail.com" target="_blank">
@@ -45,13 +49,19 @@
   <a href="https://www.linkedin.com/in/aswin-s-9193932a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+  </a>
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake  
+
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100" align="left" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/call-me-aswin/call-me-aswin/output/github-snake-dark.svg" />
