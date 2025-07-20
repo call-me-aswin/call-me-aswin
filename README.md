@@ -1,5 +1,5 @@
 # 👋 Hello World! I'm Aswin  
-### Software Engineer & Tech Explorer  
+ 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 
 <div align="center">
