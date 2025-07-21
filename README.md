@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Aswin  
  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=call-me-aswin&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" alt="GitHub stats showing commits and activity" />
