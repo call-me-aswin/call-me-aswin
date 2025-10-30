@@ -12,7 +12,7 @@
 
 ### 🌱 About My Journey
 
-I am currently pursuing my B.Tech in Computer Science and Engineering. I love to solve problems and build things. My main interest lies in exploring backend technologies, system design, and the world of distributed systems.
+ currently pursuing my B.Tech in Computer Science and Engineering. love to solve problems and build things.  interest  in exploring backend technologies, system design, and the world of distributed systems.
 
 - 🔭 I’m currently working on **My Final Year Project**.
 - 🌱 I’m currently learning and diving deeper into **'Data Structures & Algorithms, backend development with Node.js and Machine Learning'**.
